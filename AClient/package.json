@@ -1,0 +1,23 @@
+﻿{
+    "name": "AClient",
+    "main": "index.html",
+    "description": "A Client",
+    "version": "0.1.0",
+    "keywords": ["AClient", "node", "nodejs", "node.js", "node-webkit"],
+    "window": {
+        "title": "AClient",
+        "icon": "AClient.png",
+        "toolbar": true,
+        "frame": true,
+        "width": 800,
+        "height": 500,
+        "position": "mouse",
+        "min_width": 400,
+        "min_height": 200,
+        "max_width": 800,
+        "max_height": 600
+    },
+    "webkit": {
+        "plugin": true
+    }
+}
